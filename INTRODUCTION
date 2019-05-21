@@ -4,7 +4,7 @@ Matthew Harrison
 
 Emails:
 limanh@seattleu.edu,
-harrisonm@seattleu.edu
+harris47@seattleu.edu
 
 Project Description:
 Our goal is to determine, each turn, the optimal path for a piece to travel in a game of checkers. The path to take will be determined by maximizing the number of pieces that can be defeated and the farthest a piece can travel to the opposite end without making itself open to attack the following turn.
